@@ -1,0 +1,28 @@
+.bg-header-honda{
+    background-color: #264653;
+}
+
+.btn-color{
+    background-color: #E76F51;
+}
+
+.font-color-coral{
+    color: #E76F51;
+}
+
+.grayscale-img{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+
+.circle-image{
+    clip-path: circle();
+}
+
+.star-color{
+    color: #E77C40;
+}
+
+.blue-name{
+    color: #23A6F0;
+}
